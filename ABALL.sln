@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ABALL", "ABALL\ABALL.vcxproj", "{0918F58A-B4DD-4384-81DA-46C4B30C270C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0918F58A-B4DD-4384-81DA-46C4B30C270C}.Debug|x64.ActiveCfg = Debug|x64
+		{0918F58A-B4DD-4384-81DA-46C4B30C270C}.Debug|x64.Build.0 = Debug|x64
+		{0918F58A-B4DD-4384-81DA-46C4B30C270C}.Debug|x86.ActiveCfg = Debug|Win32
+		{0918F58A-B4DD-4384-81DA-46C4B30C270C}.Debug|x86.Build.0 = Debug|Win32
+		{0918F58A-B4DD-4384-81DA-46C4B30C270C}.Release|x64.ActiveCfg = Release|x64
+		{0918F58A-B4DD-4384-81DA-46C4B30C270C}.Release|x64.Build.0 = Release|x64
+		{0918F58A-B4DD-4384-81DA-46C4B30C270C}.Release|x86.ActiveCfg = Release|Win32
+		{0918F58A-B4DD-4384-81DA-46C4B30C270C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F93C3A-36C8-4614-BA88-F6E98D47E751}
+	EndGlobalSection
+EndGlobal
